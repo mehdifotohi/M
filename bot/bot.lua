@@ -241,7 +241,6 @@ function create_config( )
     "filemanager",
     "music",
     "time",
-    "badword",
     "links",
     "moderation",
     "plugins",
