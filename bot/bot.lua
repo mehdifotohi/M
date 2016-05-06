@@ -246,6 +246,8 @@ function create_config( )
     "lock_fosh",
     "spammer",
     "webshot",
+    "filtering",
+    "lock_bot_super",
     "moderation",
     "plugins",
     "rules",
